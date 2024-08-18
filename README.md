@@ -1,0 +1,2 @@
+# rules
+nakasyou rules
